@@ -1,0 +1,59 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* img with text content start */
+.ghar_img{
+    margin-left: 2rem;
+    margin-top: 8rem;
+}
+.img_with_text{
+    display: flex;
+    flex-direction: row;
+}
+.text_content{
+    height: 730px;
+    margin-right: 2rem;
+    width: 60%;
+    background-color: #F3F4F6;
+    margin-top: 4rem;
+}
+.h1tag{
+    font-size: 30px;
+    padding: 15rem 5rem 1rem 6.6rem;
+}
+.ptext{
+    font-weight: 450;
+    color: #4B5563;
+    padding: 0rem 6.6rem;
+}
+/* img with text content end */
+
+/* main section start */
+.main{
+    background-repeat: no-repeat;
+    height: 700px;
+    background-image: url('../Img/img.JPG');
+}
+.letsText{
+    padding: 10rem 14rem 0rem 14rem;
+    font-weight: 900;
+    font-size: 48px;
+    color: black;
+}
+.foreverText{
+    padding: 0rem 15rem;
+    font-weight: 900;
+    font-size: 45px;
+    color: #E11D48;
+}
+.two_btns{
+    display: flex;
+    padding: 2rem 10rem;
+}
+.ptag{
+    padding: 0rem 11rem;
+}
+/* main section end */

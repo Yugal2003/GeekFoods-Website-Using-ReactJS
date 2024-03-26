@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div_container{
+    padding:1.8rem 1.2rem 2.8rem 1.5rem;
+    border-radius: 7px;
+    color: white;
+    background-color: #1F2937;
+    margin-inline:6rem;
+    margin-top: 1.7rem;
+    margin-bottom: 6rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.h1{
+    font-weight: 700;
+    font-size: 32px;
+}
+.h5{
+    font-weight: 400;
+    font-size: 20px;
+    color: grey;
+}

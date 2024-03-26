@@ -1,0 +1,7 @@
+.progress_page_in_food_Section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    min-height: 250px;
+}

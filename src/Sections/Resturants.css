@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.input_plus_rating{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.input_plus_rating input{
+    margin: 3rem 3rem 0rem 3rem;
+    border-radius: 3px;
+    border: 1px solid rgb(184, 182, 182);
+    padding: 0.5rem 0.7rem;
+    width: 180px;
+    height: 35px;
+    font-size: 15px;
+}
+.All_Restaurant{
+    margin: 3rem;
+    display: inline-block;
+}
+.single_Restaurant{
+    border-radius: 8px;
+    width: 400px;
+    height: 200px;
+    box-shadow: 2px 4px 2px 4px #f3f4f6;
+    /* border: 5px solid black; */
+}
+.cn_chinese_plus_address{
+    padding:20px;
+}
+.visit_menu_part{
+    background-color: #f2f2f4;
+    padding: 30px 30px 10px 30px;
+}
+.visit_menu_part button{
+    border: none;
+    cursor: pointer;
+    text-decoration: underline;
+    padding-left: 0.2rem;
+    color: blue;
+}
+.atag_with_visit_menu{
+    color: blue;
+    font-weight: 600;
+    font-size: 15px;
+}
+.cn_chinese_plus_stars{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.cn_chinese_plus_stars svg{
+    margin-left: 0.2rem;
+    padding-top: 0.3rem;
+}
+.cn_chinese_plus_stars h3{
+    font-size: 20px;
+    font-weight: 650;
+}
+.address{
+    padding: 0.3rem;
+    display: flex;
+    flex-direction: column;
+}
+.ptags_for_address{
+    font-weight: 350;
+}
