@@ -1,7 +1,27 @@
-.progress_page_in_food_Section{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100vw;
-    min-height: 250px;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.some_database{
+    margin-top: 1rem;
+    background-color:blanchedalmond;
+    height: 400px;
+    width: 400px;
+    margin-inline: 1rem;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 4.5rem;
+}
+.h2tag{
+    font-size: 30px;
+    text-align: center;
+}
+.img{
+    width: 90%;
+    margin:0.8rem 0rem 0rem 1rem;
+}
+.h5tag{
+    font-size: 15px;
+    margin: 0.5rem 1rem 0rem 1rem;
 }
