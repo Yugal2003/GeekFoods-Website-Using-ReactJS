@@ -1,4 +1,4 @@
-<a target="_blank" href="https://geek-foods-website-using-react-js-t64y.vercel.app/">Live Demo</a>
+<a href="https://geek-foods-website-using-react-js-t64y.vercel.app/" target="_blank">Live Demo</a>
 
 
 # Getting Started with Create React App
